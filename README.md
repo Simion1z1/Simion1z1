@@ -4,6 +4,7 @@
 
 **Electrical Engineering student · Builder of telemetry systems, cloud infra & AI-powered tools**
 
+[![Website](https://img.shields.io/badge/Website-simionlogos.dev-21C45D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simionlogos.dev/)
 [![Email](https://img.shields.io/badge/Email-logosa.simion%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logosa.simion@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-simion__logos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simion_logos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simion%20Logos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simion-logos)
@@ -15,6 +16,7 @@
 
 ## 🚀 About Me
 
+- 🌐 Personal website: **[simionlogos.dev](https://simionlogos.dev/)**
 - 📍 Based in **Cluj-Napoca, Romania** — building things since age 12, when I started tinkering with my first engineering projects
 - 🎓 Electrical Engineering student at **[UTCN](https://ie.utcluj.ro/)** (Technical University of Cluj-Napoca)
 - ☀️ Telemetry & Systems Specialist at **[Solis-EV](https://solis.utcluj.ro/)** — solar car racing team
