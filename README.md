@@ -40,6 +40,7 @@
 
 ## 🏆 Highlights
 
+- 🏆 **iLumen European Solar Challenge 2026** (Zolder, Belgium) — raced with two Solis cars: Cruiser **4th**, Challenger **8th**
 - 🌏 **Bridgestone World Solar Challenge 2025** (Australia) — 3,000 km across the Outback with Team Solis
 - 🏁 **iLumen European Solar Challenge 2024** (Zolder, Belgium) — 254 laps with a student-built solar car
 
