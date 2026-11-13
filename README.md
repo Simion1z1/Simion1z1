@@ -28,8 +28,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Kip — Kyno](https://kyno.systems/) | Autonomous home robot for laundry, dishes & tidying, with no remote operator. I build its body: mechanics, electronics & the build | Robotics / Mechanics / Electronics |
 | [AppRamp.dev](https://appramp.dev) | Turn any API into a ChatGPT App, no code required — the fastest way to ship to the ChatGPT App Store | Cloudflare Workers / AI |
-| [Kip — Kyno](https://kyno.systems/) | Autonomous home robot for laundry, dishes & tidying, with no remote operator. I build its body: wheeled base, 62–96 cm telescopic lift, two arms | Robotics / Mechanics / Electronics |
 | Wi-Fi HaLow Mesh | Long-range sub-1 GHz (868 MHz) mesh network based on IEEE 802.11ah + OpenMANET — Raspberry Pi 4 nodes with Wio-WM6108 radios, native IP stack, WPA3, range from hundreds of meters up to ~16 km line-of-sight | RF / Embedded / IoT |
 | [OFG-HardwareMonitorMini](https://github.com/Simion1z1/OFG-HardwareMonitorMini) | Real-time CPU/GPU/RAM monitoring device ([demo](https://www.youtube.com/watch?v=OPk3oxukHEo)) | C++ |
 | [Bossac-Firmware-Updater](https://github.com/Simion1z1/Bossac-Firmware-Updater) | Auto-updating firmware uploader for Atmel SAM microcontrollers | C# |
