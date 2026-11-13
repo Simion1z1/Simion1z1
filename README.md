@@ -2,7 +2,7 @@
 
 # Hi there, I'm Simion Logos 👋
 
-**Electrical Engineering student · Builder of telemetry systems, cloud infra & AI-powered tools**
+**Electrical Engineering student · Co-founder of Kyno (home robotics) · Builder of telemetry systems, cloud infra & AI-powered tools**
 
 [![Website](https://img.shields.io/badge/Website-simionlogos.dev-21C45D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simionlogos.dev/)
 [![Email](https://img.shields.io/badge/Email-logosa.simion%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logosa.simion@gmail.com)
@@ -18,6 +18,7 @@
 
 - 🌐 Personal website: **[simionlogos.dev](https://simionlogos.dev/)**
 - 📍 Based in **Cluj-Napoca, Romania** — building things since age 12, when I started tinkering with my first engineering projects
+- 🤖 Co-founder of **[Kyno](https://kyno.systems/)** — building **Kip**, an autonomous home robot for laundry, dishes & tidying; I build its body: mechanics, electronics & the build
 - 🎓 Electrical Engineering student at **[UTCN](https://ie.utcluj.ro/)** (Technical University of Cluj-Napoca)
 - ☀️ Telemetry & Systems Specialist at **[Solis-EV](https://solis.utcluj.ro/)** — solar car racing team
 - 🏭 **Bright Students @ Bosch Romania** — software development
