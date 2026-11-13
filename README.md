@@ -28,7 +28,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Kip — Kyno](https://kyno.systems/) | Autonomous home robot for laundry, dishes & tidying, with no remote operator. I build its body: mechanics, electronics & the build | Robotics / Mechanics / Electronics |
+| [Kip — Kyno](https://kyno.systems/) | Autonomous home robot: empties the washing machine, folds, loads the dishwasher, tidies up. If a skill stalls, a supervisor takes over; if it still can't finish, Kip stops and tells you — no remote operator | Robotics / Mechanics / Electronics |
 | [AppRamp.dev](https://appramp.dev) | Turn any API into a ChatGPT App, no code required — the fastest way to ship to the ChatGPT App Store | Cloudflare Workers / AI |
 | Wi-Fi HaLow Mesh | Long-range sub-1 GHz (868 MHz) mesh network based on IEEE 802.11ah + OpenMANET — Raspberry Pi 4 nodes with Wio-WM6108 radios, native IP stack, WPA3, range from hundreds of meters up to ~16 km line-of-sight | RF / Embedded / IoT |
 | [OFG-HardwareMonitorMini](https://github.com/Simion1z1/OFG-HardwareMonitorMini) | Real-time CPU/GPU/RAM monitoring device ([demo](https://www.youtube.com/watch?v=OPk3oxukHEo)) | C++ |
@@ -36,7 +36,7 @@
 | [NV10USB-RaspberryPi](https://github.com/Simion1z1/NV10USB-RaspberryPi) | ITL NV10USB bill validator integration for Raspberry Pi | Python |
 | Cybersecurity Practice & Pentesting Lab | Personal security lab on Kali Linux — web app security testing, database vulnerability assessment, network exploitation, Burp Suite | Kali Linux / Security |
 | Self-Printing Kiosk | Self-service scan/print/copy station with bill & coin acceptor, email/WhatsApp integration | Raspberry Pi |
-| [CellUp](https://cellup.co.uk/) | Restaurant digitalization — QR digital menus & bookings | Web |
+| CellUp | Restaurant digitalization — QR digital menus & bookings (no longer live) | Web |
 | Home NAS Server | Personal Nextcloud-based cloud, file sync & media storage | Linux / Self-hosted |
 | Solis-EV Telemetry | Cloud telemetry for a solar race car (Grafana + InfluxDB), team cloud infra & self-hosted LLMs (Ollama) | IoT / Cloud |
 
